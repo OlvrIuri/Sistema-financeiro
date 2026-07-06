@@ -11,8 +11,6 @@ Projeto da disciplina de Programação Orientada a Objetos 2.
 | `conexao.py` | Conexão com o MySQL |
 | `script.sql` | Criação das tabelas e dados iniciais |
 | `MER.png` | Diagrama Entidade-Relacionamento |
-| `GUIA_DO_CODIGO.md` | Guia interno de leitura para o grupo |
-| `DIVISAO_APRESENTACAO.md` | Divisão das falas entre os 6 integrantes |
 | `Apresentacao_Sistema_Financeiro.pdf` | Slides para o professor |
 
 ## Como rodar
